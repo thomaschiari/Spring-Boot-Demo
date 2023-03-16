@@ -2,4 +2,4 @@
 Repository for Spring Boot practice
 
 ### References:
-- Spring Boot Tutorial for Begginers - YouTube [https://youtu.be/vtPkZShrvXQ]
+- Spring Boot Tutorial for Begginers - [YouTube](https://youtu.be/vtPkZShrvXQ)
